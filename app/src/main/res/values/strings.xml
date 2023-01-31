@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="refresh">Нажми на меня, я помогу!</string>
+    <string name="question">Не знаешь чем заняться?</string>
+</resources>
